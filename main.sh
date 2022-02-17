@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # secure log file
-#SECURE_FILE="/var/log/secure"
-SECURE_FILE="secure"
+SECURE_FILE="/var/log/secure"
 # firewall rules
 IP_TABLES="/usr/sbin/iptables"
 # connection type
